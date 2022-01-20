@@ -1,0 +1,15 @@
+Luxidoor
+start:none
+tech:default
+starstart:7
+unitstart:Warrior
+popstart:3
+fruitmod:1
+cropmod:1
+forestmod:1
+animalmod:1
+mountainmod:1
+oremod:1
+fishmod:1
+landcolor:119, 179, 27
+mountaincolor:112, 171, 19

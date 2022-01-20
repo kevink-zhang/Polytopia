@@ -1,0 +1,15 @@
+Hoodrick
+start:Archery
+tech:default
+starstart:5
+unitstart:Archer
+popstart:0
+fruitmod:1
+cropmod:1
+forestmod:1.5
+animalmod:1
+mountainmod:0.5
+oremod:1
+fishmod:1
+landcolor:153, 167, 27
+mountaincolor:149, 163, 23

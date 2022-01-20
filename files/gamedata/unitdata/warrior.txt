@@ -1,0 +1,17 @@
+name:Warrior
+cost:2
+attack:2
+defense:2
+movement:1
+range:1
+health:10
+carry:false
+convert:false
+dash:true
+escape:false
+sail:false
+fortify:true
+heal:false
+persist:false
+scount:false
+none

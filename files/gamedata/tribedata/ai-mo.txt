@@ -1,0 +1,15 @@
+Ai-Mo
+start:Meditation
+tech:default
+starstart:5
+unitstart:Warrior
+popstart:0
+fruitmod:1
+cropmod:0.1
+forestmod:1
+animalmod:1
+mountainmod:1.5
+oremod:1
+fishmod:1
+landcolor:153, 204, 0
+mountaincolor:140, 133, 145

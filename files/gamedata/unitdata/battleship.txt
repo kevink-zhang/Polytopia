@@ -1,0 +1,17 @@
+name:Battleship
+cost:15
+attack:4
+defense:3
+movement:3
+range:2
+health:0
+carry:true
+convert:false
+dash:true
+escape:false
+sail:true
+fortify:false
+heal:false
+persist:false
+scount:true
+fireball

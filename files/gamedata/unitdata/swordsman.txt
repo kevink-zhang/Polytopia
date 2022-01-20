@@ -1,0 +1,17 @@
+name:Swordsman
+cost:5
+attack:3
+defense:3
+movement:1
+range:1
+health:15
+carry:false
+convert:false
+dash:true
+escape:false
+sail:false
+fortify:true
+heal:false
+persist:false
+scount:false
+none

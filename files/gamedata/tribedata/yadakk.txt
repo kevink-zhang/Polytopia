@@ -1,0 +1,15 @@
+Yadakk
+start:Roads
+tech:default
+starstart:5
+unitstart:Warrior
+popstart:0
+fruitmod:1.5
+cropmod:1
+forestmod:0.5
+animalmod:1
+mountainmod:0.5
+oremod:1
+fishmod:1
+landcolor:202, 178, 143
+mountaincolor:191, 143, 109

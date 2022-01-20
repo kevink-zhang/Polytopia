@@ -1,0 +1,17 @@
+name:Defender
+cost:3
+attack:1
+defense:3
+movement:1
+range:1
+health:15
+carry:false
+convert:false
+dash:false
+escape:false
+sail:false
+fortify:true
+heal:false
+persist:false
+scount:false
+none

@@ -1,0 +1,17 @@
+name:Archer
+cost:3
+attack:2
+defense:1
+movement:1
+range:2
+health:10
+carry:false
+convert:false
+dash:true
+escape:false
+sail:false
+fortify:true
+heal:false
+persist:false
+scount:false
+none

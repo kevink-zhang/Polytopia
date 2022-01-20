@@ -1,0 +1,17 @@
+name:Mind Bender
+cost:5
+attack:0
+defense:1
+movement:1
+range:1
+health:10
+carry:false
+convert:true
+dash:false
+escape:false
+sail:false
+fortify:false
+heal:true
+persist:false
+scount:false
+none

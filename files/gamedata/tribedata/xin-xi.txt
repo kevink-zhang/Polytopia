@@ -1,0 +1,15 @@
+Xin-xi
+start:Climbing
+tech:default
+starstart:5
+unitstart:Warrior
+popstart:0
+fruitmod:1
+cropmod:1
+forestmod:1
+animalmod:1
+mountainmod:1.5
+oremod:1.5
+fishmod:1
+landcolor:119, 179, 27
+mountaincolor:70, 70, 70

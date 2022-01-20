@@ -1,0 +1,15 @@
+Bardur
+start:Hunting
+tech:default
+starstart:5
+unitstart:Warrior
+popstart:0
+fruitmod:1.5
+cropmod:0
+forestmod:1
+animalmod:1
+mountainmod:1
+oremod:1
+fishmod:1
+landcolor:242, 255, 255
+mountaincolor:211, 255, 255

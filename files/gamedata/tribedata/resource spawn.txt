@@ -1,0 +1,7 @@
+Field 0.46 0.46
+Fruit 0.2 0.06
+Crop 0.2 0.06
+Forest 0.34 0.34
+Animal 0.17 0.06
+Mountain 0.2 0.2
+Metal 0.17 0.03

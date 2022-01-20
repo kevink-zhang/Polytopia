@@ -1,0 +1,15 @@
+Vengir
+start:Smithery
+tech:default
+starstart:5
+unitstart:Swordsman
+popstart:0
+fruitmod:0.1
+cropmod:1
+forestmod:1
+animalmod:0.1
+mountainmod:1
+oremod:2
+fishmod:0.1
+landcolor:45, 45, 45
+mountaincolor:42, 42, 42

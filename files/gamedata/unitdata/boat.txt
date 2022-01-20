@@ -1,0 +1,17 @@
+name:Boat
+cost:0
+attack:1
+defense:1
+movement:2
+range:2
+health:0
+carry:true
+convert:false
+dash:true
+escape:false
+sail:true
+fortify:false
+heal:false
+persist:false
+scount:false
+arrow

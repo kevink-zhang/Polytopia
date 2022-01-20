@@ -1,0 +1,75 @@
+:Hunting
+hunting
+-83 50
+>:Archery
+archer,forest bonus
+-193 50
+>>:Spiritualism
+grow forest,forest temple
+-300 50
+>:Forestry
+lumber hut
+-183 147
+>>:Mathematics
+catapult,sawmill
+-150 250
+:Riding
+rider
+33 100
+>:Roads
+roads
+0 200
+>>:Trade
+customs house
+-33 300
+>:Free Spirit
+temple,clear forest,retire
+117 150
+>>:Chivalry
+knight,burn forest
+286 200
+:Organization
+fruit
+100 0
+>:Farming
+farm
+193 50
+>>:Construction
+windmill,destroy
+220 100
+>:Shields
+defender
+193 -67
+>>:Engineering
+guard tower
+286 -193
+:Climbing
+mountain
+33 -100
+>:Mining
+mine
+100 -167
+>>:Smithery
+swordsman,forge
+167 -233
+>:Meditation
+mountain temple,mountain bonus
+0 -167
+>>:Philosophy
+mind bender,literacy
+-33 -233
+:Fishing
+fish
+-83 -67
+>:Sailing
+ship,port,water
+-117 -167
+>>:Navigation
+battleship,ocean
+-150 -267
+>:Whaling
+whale
+-200 -67
+>>:Aquatism
+water temple,water bonus,ocean bonus
+-317 -67

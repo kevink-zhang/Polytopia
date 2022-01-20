@@ -1,0 +1,17 @@
+name:Knight
+cost:10
+attack:3.5
+defense:1
+movement:3
+range:1
+health:15
+carry:false
+convert:false
+dash:true
+escape:false
+sail:false
+fortify:true
+heal:false
+persist:true
+scount:false
+none

@@ -1,0 +1,15 @@
+Imperius
+start:Organization
+tech:default
+starstart:5
+unitstart:Warrior
+popstart:0
+fruitmod:2
+cropmod:1
+forestmod:1
+animalmod:0.5
+mountainmod:1
+oremod:1
+fishmod:1
+landcolor:119, 179, 27
+mountaincolor:122, 122, 122

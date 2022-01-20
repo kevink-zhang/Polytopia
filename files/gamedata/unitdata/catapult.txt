@@ -1,0 +1,17 @@
+name:Catapult
+cost:8
+attack:4
+defense:0
+movement:1
+range:3
+health:10
+carry:false
+convert:false
+dash:false
+escape:false
+sail:false
+fortify:false
+heal:false
+persist:false
+scount:false
+rock

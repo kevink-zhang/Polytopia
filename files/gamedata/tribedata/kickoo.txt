@@ -1,0 +1,15 @@
+Kickoo
+start:Fishing
+tech:default
+starstart:5
+unitstart:Warrior
+popstart:0
+fruitmod:1
+cropmod:1
+forestmod:1
+animalmod:1
+mountainmod:0.5
+oremod:1
+fishmod:1.5
+landcolor:119, 179, 27
+mountaincolor:70, 70, 70

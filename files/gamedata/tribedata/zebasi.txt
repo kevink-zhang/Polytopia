@@ -1,0 +1,15 @@
+Zebasi
+start:Farming
+tech:default
+starstart:3
+unitstart:Warrior
+popstart:0
+fruitmod:0.5
+cropmod:1
+forestmod:0.5
+animalmod:1
+mountainmod:0.5
+oremod:1
+fishmod:1
+landcolor:211, 202, 29
+mountaincolor:154, 188, 118

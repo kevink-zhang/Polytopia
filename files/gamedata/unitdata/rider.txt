@@ -1,0 +1,17 @@
+name:Rider
+cost:3
+attack:2
+defense:1
+movement:2
+range:1
+health:10
+carry:false
+convert:false
+dash:true
+escape:true
+sail:false
+fortify:true
+heal:false
+persist:false
+scount:false
+none

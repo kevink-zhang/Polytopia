@@ -1,0 +1,15 @@
+Quetzali
+start:Shields
+tech:default
+starstart:5
+unitstart:Defender
+popstart:0
+fruitmod:2
+cropmod:0.1
+forestmod:1
+animalmod:1
+mountainmod:1
+oremod:1
+fishmod:1
+landcolor:51, 139, 99
+mountaincolor:49, 135, 96

@@ -1,0 +1,17 @@
+name:Giant
+cost:0
+attack:5
+defense:4
+movement:1
+range:1
+health:40
+carry:false
+convert:false
+dash:false
+escape:false
+sail:false
+fortify:false
+heal:false
+persist:false
+scount:false
+none
